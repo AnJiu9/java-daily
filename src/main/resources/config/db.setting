@@ -1,0 +1,12 @@
+## db.setting文件
+
+url = jdbc:mysql://localhost:3306
+user = root
+pass = rootroot
+
+# 是否在日志中显示执行的SQl
+showSql = true
+# 是否格式化显示的SQl
+formatSql = false
+# 是否显示SQL参数
+showParams = false

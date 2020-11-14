@@ -1,4 +1,4 @@
-package com.j;
+package com.j.day20;
 
 import javax.swing.*;
 
